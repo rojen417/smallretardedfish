@@ -1,0 +1,1 @@
+var json_pantalan_4 = {"type":"FeatureCollection","name":"pantalan_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"name":"Pantalan","pictures":"C:\\Users\\acer\\Pictures\\raw herano sept. 18, 2022\\003\\giant.jpg"},"geometry":{"type":"Point","coordinates":[125.099702327561488,8.830832607244755]}}]}
